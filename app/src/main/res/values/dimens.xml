@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="string_normal" format="integer" type="dimen">30</item>
+    <item name="string_grande" format="integer" type="dimen">50</item>
+
+</resources>
